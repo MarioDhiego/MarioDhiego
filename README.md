@@ -2,8 +2,8 @@
 ## Hi there!, Mário Dhiego Valente
 <div align="center">
   <a href="https://github.com/MarioDhiego">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### :computer: Programming languages and Tools
@@ -23,7 +23,4 @@
 <div> 
   <a href = "mailto:mario.valente@detran.pa.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mario-diego-valente-9b721223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MarioDhiego/MarioDhiego/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
