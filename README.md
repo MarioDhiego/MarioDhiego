@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### :computer: Programming languages and Tools
+### :computer: Programming Languages and Tools
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mario-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg" />
