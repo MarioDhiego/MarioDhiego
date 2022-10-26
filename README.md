@@ -1,10 +1,12 @@
 
 ## Hi there!, Mário Dhiego Valente
-<div align="center">
-  <a href="https://github.com/MarioDhiego">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioDhiego&langs_count=20&show_icons=true&locale=en&layout=compact" alt="MarioDhiego" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&locale=en" alt="MarioDhiego" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarioDhiego" alt="MarioDhiego" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioDhiego&theme=github" /></p>
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=MarioDhiego&bc=ebebeb&ic=0E8AD9" alt="MarioDhiego" /></p>
 
 ### :computer: Programming Languages
 
