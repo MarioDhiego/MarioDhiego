@@ -32,7 +32,5 @@
   <a href = "mailto:mario.valente@detran.pa.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mario-diego-valente-9b721223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
- ![](https://komarev.com/ghpvc/?username=MarioDhiego&label=Views&color=116262)
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarioDhiego&label=Profile%20views&color=0e75b6&style=flat" alt="MarioDhiego" /> </p>
 
