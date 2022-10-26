@@ -18,11 +18,13 @@
 <img align="center" alt="Mario-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 
- ![](https://komarev.com/ghpvc/?username=MarioDhiego&label=Views&color=116262)
+
+ ### :computer: Tools
  
- ### :computer: Tools 
+ <div style="display: inline_block"><br>
  <img align="center" alt="Mario-RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
  <img align="center" alt="Mario-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
+  <div> 
   
   ##
  
@@ -30,3 +32,7 @@
   <a href = "mailto:mario.valente@detran.pa.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mario-diego-valente-9b721223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+
+ ![](https://komarev.com/ghpvc/?username=MarioDhiego&label=Views&color=116262)
+ 
+
