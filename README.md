@@ -1,14 +1,14 @@
 
-## Hi there!, Mário Dhiego Rocha Valente
+# Hi there!, Mário Dhiego Rocha Valente
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioDhiego&langs_count=20&show_icons=true&locale=en&layout=compact" alt="MarioDhiego" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioDhiego&langs_count=20&show_icons=true&locale=en&layout=compact" alt="MarioDhiego" /></p>
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&locale=en" alt="MarioDhiego" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarioDhiego" alt="MarioDhiego" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioDhiego&theme=github" /></p>
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=MarioDhiego&bc=ebebeb&ic=0E8AD9" alt="MarioDhiego" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&locale=en" alt="MarioDhiego" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarioDhiego" alt="MarioDhiego" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioDhiego&theme=github" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=MarioDhiego&bc=ebebeb&ic=0E8AD9" alt="MarioDhiego" /></p>
 
-### :computer: Programming Languages
+## :computer: Programming Languages
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mario-Spss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg" />
@@ -21,11 +21,12 @@
 </div>
 
 
- ### :computer: Tools
+ ## :computer: Tools
  
- <div style="display: inline_block"><br>
- <img align="center" alt="Mario-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
- <img align="center" alt="Mario-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
+<div style="display: inline_block"><br>
+<img align="center" alt="Mario-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+<img align="center" alt="Mario-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original wordmark.svg" /> 
+ <img align="center" alt="Mario-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <div> 
   
   ##
