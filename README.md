@@ -1,6 +1,13 @@
 
-# Hi there!, Mário Dhiego Rocha Valente
+# Hi there!, Mário Dhiego Valente
 
+##
+
+<div id="header" align="center">
+ <img src="https://i.imgur.com/9KK73gJ.jpg"/>
+</div>
+
+##
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioDhiego&langs_count=20&show_icons=true&locale=en&layout=compact" alt="MarioDhiego" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&locale=en" alt="MarioDhiego" /></p>
