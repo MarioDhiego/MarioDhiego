@@ -11,7 +11,7 @@ Hi there!, Mário Dhiego Valente
 <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioDhiego&theme=github" /></p>
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=MarioDhiego&bc=ebebeb&ic=0E8AD9" alt="MarioDhiego" /></p>
 
-## :Computer: Programming Languages
+## Computer: Programming Languages
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mario-Spss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg"/>
@@ -25,7 +25,7 @@ Hi there!, Mário Dhiego Valente
 </div>
 
 
- ## :Computer: Tools
+ ## Computer: Tools
  
 <div style="display: inline_block"><br>
 <img align="center" alt="Mario-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
