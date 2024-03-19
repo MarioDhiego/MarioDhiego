@@ -4,12 +4,11 @@ Hi there!, Mário Dhiego
 
 A senior Statistic with more than 19 years of professional experience. I have excellent knowledge of backend R, HTML and Javascript development. A lot of my activity is open-source.
 
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true">
-       <img height= 200 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
+       <img height= 150 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/MarioDhiego/github-readme-stats">
-       <img height= 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact"/></a>
+       <img height= 150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact"/></a>
 </p>
 
 <p align='center'>
