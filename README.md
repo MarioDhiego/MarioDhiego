@@ -1,20 +1,22 @@
 
 # 
-Hi there!, Mário Dhiego Valente
-#
+Hi there!, Mário Dhiego 
 
-##
+A senior Statistic with more than 19 years of professional experience. I have excellent knowledge of backend R, HTML and Javascript development. A lot of my activity is open-source.
+
+
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
+       <img height= 200 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/MarioDhiego/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact"/></a>
+       <img height= 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact"/></a>
 </p>
 
+<p align='center'>
+   📫 How to reach me: <a href='mailto:mario.valente@detran.pa.gov.br'> mario.valente@detran.pa.gov.br</a>
+</p>
 
-
-
-## Computer: Programming Languages
+## Programming Languages
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Mario-Spss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg"/>
@@ -27,8 +29,7 @@ Hi there!, Mário Dhiego Valente
 <img align="center" alt="Mario-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 
-
- ## Computer: Tools
+ ## Tools
  
 <div style="display: inline_block"><br>
 <img align="center" alt="Mario-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
@@ -37,11 +38,22 @@ Hi there!, Mário Dhiego Valente
  <img align="center" alt="Mario-Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="center" alt="Mario-Kaggle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
   
-  ##
- 
-<div> 
-  <a href = "mailto:mario.valente@detran.pa.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mario-diego-valente-9b721223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarioDhiego&label=Profile%20views&color=0e75b6&style=flat" alt="MarioDhiego" /> </p>
+   ##
+
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/MarioDhiego/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=MarioDhiego&color=DE002D">
+   </a>
+</div>
+
+
+
+
+
+
+
+
+
 
