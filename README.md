@@ -6,14 +6,21 @@ A senior Statistic with more than 19 years of professional experience. I have ex
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true">
-       <img height= 150 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
+       <img height= 180 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/MarioDhiego/github-readme-stats">
-       <img height= 150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact"/></a>
+       <img height= 180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact"/></a>
 </p>
 
+## Contatos:
+
+<div>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:mario.valente@detran.pa.gov.br'> mario.valente@detran.pa.gov.br</a>
+<a href="https://instagram.com/dhiego_valente/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:diego.vatente@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://br.linkedin.com/in/mario-diego-rocha-valente-6bb892254/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
+</div>
+
 
 ## Programming Languages
 
