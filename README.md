@@ -9,6 +9,7 @@ Hi there!, Mário Dhiego
 Estatístico e Analista de Trânsito com 19 anos de Experiência Profissional em Análise de Dados. Tenho excelente conhecimento de desenvolvimento backend em Linguagem de Programação R, HTML/CSS, LaTeX e JavaScript.
 
 <p align='center'>
+              <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=lramon2001&theme=algolia&include_all_commits=true"/>
    <a href="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true">
        <img height= 180 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/MarioDhiego/github-readme-stats">
