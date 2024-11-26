@@ -3,19 +3,19 @@
             
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Mário+Diego;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
-# 
-Hi there!, Mário Dhiego 
 
 Estatístico e Analista de Trânsito com 19 anos de Experiência Profissional em Análise de Dados. Tenho excelente conhecimento de desenvolvimento backend em Linguagem de Programação R, HTML/CSS, LaTeX e JavaScript.
 
-<p align='center'>
-<img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=MarioDhiego&theme=algolia&include_all_commits=true"/>
-   <a href="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true">
-       <img height= 140 src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/MarioDhiego/github-readme-stats">
-       <img height= 140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDhiego&layout=compact"/></a>
-</p>
+<div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MarioDhiego&theme=algolia&include_all_commits=true"/>
+</div>
 
+<div align="center">
+  <a href="https://github.com/lramon2001">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&langs_count=16&hide=javascript,HTML,css"/>
+  </a>
+</div>
 ## Contatos:
 
 <div>
