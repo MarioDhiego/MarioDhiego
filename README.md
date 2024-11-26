@@ -1,7 +1,7 @@
 
 <div style="background-color: #242424;">
             
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Mário+Diego;Um+desenvolvedor+em+desenvolvimento;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Mário+Diego;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 # 
 Hi there!, Mário Dhiego 
