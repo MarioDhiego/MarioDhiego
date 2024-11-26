@@ -7,13 +7,13 @@
 Estatístico e Analista de Trânsito com 19 anos de Experiência Profissional em Análise de Dados. Tenho excelente conhecimento de desenvolvimento backend em Linguagem de Programação R, HTML/CSS, LaTeX e JavaScript.
 
 <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MarioDhiego&theme=algolia&include_all_commits=true"/>
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=MarioDhiego&theme=algolia&include_all_commits=true"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/lramon2001">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&langs_count=16&hide=javascript,HTML,css"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MarioDhiego&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lramon2001&show_icons=true&theme=algolia&include_all_commits=true&layout=compact&langs_count=16&hide=javascript,HTML,css"/>
   </a>
 </div>
 ## Contatos:
