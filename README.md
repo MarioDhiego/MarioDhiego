@@ -4,7 +4,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá.Sou+Mário+Diego;Um+Desenvolvedor+em+Desenvolvimento;)](https://git.io/typing-svg)
 
 
-Estatístico e Analista de Trânsito com 20 anos de Experiência Profissional em Análise de Dados. Tenho excelente conhecimento de desenvolvimento backend em Linguagem de Programação R, HTML/CSS, LaTeX e JavaScript.
+Estatístico e Analista de Trânsito com mais de 20 anos de experiência em análise de dados. 
+Possuo sólido conhecimento em desenvolvimento backend utilizando R, além de experiência com HTML, CSS, LaTeX e JavaScript.
 
 <div align="center">
     <img height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=MarioDhiego&theme=algolia&include_all_commits=true"/>
