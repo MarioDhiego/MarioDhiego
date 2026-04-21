@@ -6,11 +6,11 @@
 
 ## 👨‍💻 Sobre mim | About Me
 
-🇧🇷
+
 Estatístico e Analista de Trânsito com mais de 20 anos de experiência em análise de dados.
 Possuo sólido conhecimento em desenvolvimento backend utilizando R, além de experiência com HTML, CSS, LaTeX e JavaScript.
 
-🇺🇸
+
 Statistician and Traffic Analyst with over 20 years of experience in data analysis.
 Strong background in backend development using R, with additional experience in HTML, CSS, LaTeX, and JavaScript.
 
